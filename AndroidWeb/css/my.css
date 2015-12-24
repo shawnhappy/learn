@@ -1,0 +1,146 @@
+*{margin:0}
+* {	padding: 0}
+
+.templatemo-container {
+	display: table;
+	width: 100%;
+	height: 600px;
+	table-layout: fixed;
+	color:#cc0000;
+	
+}
+
+.templatemo-h { 
+	display: table;
+	height: 100px;
+	line-height:70px;
+	vertical-align: middle;
+	width: 100%;	
+	
+	
+}
+
+.templatemo-f { 
+	background-color:#990000;
+	clear:both;
+	text-align:center;	
+	height: 50px;
+	border:1px solid gray;
+	font-size:20
+}
+
+.templatemo-l { 
+	display: table-cell;
+	float: left;
+	width: 22%;	
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0;
+	background-color:#999999;
+}
+
+.templatemo-m { 
+	display: table-cell;
+	float: left;
+	width: 57%;
+	height:600px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+	padding-right: 0;
+	
+}
+
+.templatemo-r { 
+	display: table-cell;
+	float: left;
+	width: 21%;
+	height:620px;
+	
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.picture-h {
+	height:100%;
+	max-height:100px;
+	float:left 
+}
+
+.picture-r {
+	width:100%;
+	max-width:300px;
+	max-height:200px;
+	float:left 
+}
+
+.inputsty {
+	float:right;
+	font-size:25px;
+	width:200px;
+	font-style:normal;
+	margin-top: 17px;
+	margin-bottom: auto;
+}
+
+.btn {
+	float:right;
+	font-size:24px;
+	width:100px;
+	font-style:normal;
+	margin-top: 17px;
+	margin-bottom: auto;
+	margin-right:10px;
+}
+.templatemo-nav>li {
+	border: 1px solid #8C8C8C;
+	border-radius: 8px;
+	color: white;
+	padding: 20px 50px;	
+	transition: background-color 0.3s;
+}
+.templatemo-nav>li:hover{
+	color:#FF00f0;
+	background:#ffffff;
+}
+.templatemo-nav {
+	display:block;
+	font-size: 16px;
+	font-weight: 30;
+	float: left;
+	min-width: 265px;
+	margin-left:0;
+	
+}
+
+.templatemo-rf { 
+	display: table-cell;
+	float: left;
+	width:100%;
+	height:110px;
+	
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0;
+}
+.templatemo-rt { 
+	display: table-cell;
+	float: left;
+	width:100%;
+	height:200px;
+	background-color:#00ffff;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.templatemo-rm { 
+	display: table-cell;	
+	width:300px;
+	height:285px;
+	background:#ff0000;
+	
+		
+}
+
+li {list-style:none}
